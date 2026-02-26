@@ -51,6 +51,7 @@ if keyboard_check(vk_right) {
 
     image_xscale = -1; // flip heidi's sprite so she faces right
 
+
 } else if keyboard_check(vk_left) {
 
     x_speed = -movement_speed; 
